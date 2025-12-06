@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tareas>
+    <tarea>
+        <id>1</id>
+        <titulo>Práctica REST y SOAP</titulo>
+        <descripcion>Implementar servicios web para la plataforma Eduflow</descripcion>
+        <fecha_entrega>2024-12-10</fecha_entrega>
+        <asignatura>Desarrollo Web Entorno Servidor</asignatura>
+        <urgencia>alta</urgencia>
+        <fichero_adjunto>portada_1.png</fichero_adjunto>
+    </tarea>
+    <tarea>
+        <id>2</id>
+        <titulo>Diseño de Base de Datos</titulo>
+        <descripcion>Crear modelo E-R para sistema de gestión académica</descripcion>
+        <fecha_entrega>2024-12-15</fecha_entrega>
+        <asignatura>Bases de Datos</asignatura>
+        <urgencia>media</urgencia>
+        <fichero_adjunto>portada_1.png</fichero_adjunto>
+    </tarea>
+    <tarea>
+        <id>3</id>
+        <titulo>Maquetación Responsive</titulo>
+        <descripcion>Crear interfaz adaptable para diferentes dispositivos</descripcion>
+        <fecha_entrega>2024-12-20</fecha_entrega>
+        <asignatura>Desarrollo Web Entorno Cliente</asignatura>
+        <urgencia>baja</urgencia>
+        <fichero_adjunto>portada_1.png</fichero_adjunto>
+    </tarea>
+</tareas>
